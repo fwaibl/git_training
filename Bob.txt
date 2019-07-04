@@ -1,2 +1,2 @@
-Hi!! I'm Bob. I've been here for a while now.
+Hi! I'm Bob. I've been here for a while now.
 I'm making complicated changes to make branches more complicated.
